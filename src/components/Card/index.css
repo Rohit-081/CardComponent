@@ -1,0 +1,26 @@
+.top-container {
+    display: flex;
+}
+
+.size {
+    box-shadow: 0 14px 18px 0 rgba(0, 0, 0, 0.1);
+    width: 350px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 30px 10px;
+    border-radius: 25px;
+}
+
+.size:hover {
+    cursor: pointer;
+}
+
+.primary-mentor {
+    background-color: #a7c4bc;
+}
+
+.secondary {
+    background-color: #5e8b7e;
+}
